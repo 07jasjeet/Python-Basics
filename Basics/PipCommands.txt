@@ -1,0 +1,8 @@
+Install packages:
+    pip install packageName
+Show package information:
+    pip show packageName
+Show package list:
+    pip list
+Run python is command line:
+    python
