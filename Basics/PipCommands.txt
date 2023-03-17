@@ -1,8 +1,10 @@
 Install packages:
-    pip install packageName
+    pip install [packageName]
 Show package information:
-    pip show packageName
+    pip show [packageName]
 Show package list:
     pip list
+Update package:
+    pip install [packageName] --upgrade
 Run python is command line:
     python
