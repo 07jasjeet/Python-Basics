@@ -40,7 +40,7 @@ addSpace()
 myTupleList = [(1,2), (3,4), (4,5), (5,6)]
 
 for (a, b) in myTupleList:
-    print(a, end=" ")
+    print(f"({a},{b})", end=" ")
 
 addSpace()
 
@@ -120,3 +120,4 @@ print( [element**2 for element in myList] )
 print( [x for x in range(0,20) if x%2 == 0] )
 
 nestedLoopList = [x*y for x in myList for y in list1]
+print(nestedLoopList)

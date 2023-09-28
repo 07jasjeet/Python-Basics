@@ -27,7 +27,7 @@ addSpace()
 '''
 #2
 Creating two lists (even if they are the same), they will have
-different adsresses
+different addresses
 '''
 
 a = []
